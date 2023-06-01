@@ -62,8 +62,8 @@
 ![image](https://github.com/Asilsathik/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119476247/31793195-f0d7-4357-8ef4-dddad8bc38eb)
 
 
-### Name: M.MOHAMED ASIL
-### Register Number:212222230080
+### Name: S.M.SYED MOKTHIYAR
+### Register Number:212222230156
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
